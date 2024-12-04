@@ -1,0 +1,49 @@
+/*div{
+    background-color: blueviolet;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    position:relative;
+div:hover{
+    background-color: brown;
+    transition: 0.5s;
+}*/
+a{
+    text-decoration: none;
+}
+table{
+    border: 1px solid red;
+}
+table td{
+    border: 1px solid black ;
+    background-color: rgb(170, 154, 126);
+    padding: 5px;
+}
+table thead th{
+        background-color: blueviolet;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        border: 1px solid orangered;
+}
+/*div{
+    box-shadow: 20px 0px 10px 5px rgb(39, 28, 7) ;
+}*/
+
+.flex-div{
+    background-color: rgb(97, 10, 10);
+    width: 100%;
+    height: 100vh;
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.flex-div p{
+    background-color: greenyellow;
+    color: black;
+    
+}
